@@ -36,11 +36,11 @@ with input:
         
         # -------------------------------------------------------------------------------------
         # Banana Ripeness Color Scheme:
-        UNRIPE = np.array([[143, 169, 65]])
-        SEMI_RIPE = np.array([[213, 209, 122]])
-        RIPE = np.array([[244, 219, 100]])
-        HALF_ROTTEN = np.array([[234, 171, 64]])
-        ROTTEN = np.array([[46, 37, 34]])
+        UNRIPE = np.array([[148, 181, 75]])
+        SEMI_RIPE = np.array([[195, 199, 87]])
+        RIPE = np.array([[241, 210, 93]])
+        HALF_ROTTEN = np.array([[191, 133, 64]])
+        ROTTEN = np.array([[54, 33, 48]])
 
         # -------------------------------------------------------------------------------------
         # steps 1+2: reading the banana image and removing the background using rembg
